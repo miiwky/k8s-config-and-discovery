@@ -6,4 +6,4 @@ spring:
     kubernetes:
       discovery:
         enabled: false
-#test
+#test1
